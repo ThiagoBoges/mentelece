@@ -1,17 +1,23 @@
-# mentelece
+# MenteLeve — Diário de Humor com IA
 
-A new Flutter project.
+App Flutter com 3 telas: registro diário do humor, resposta gerada pela IA e histórico de entradas.
 
-## Getting Started
+## 📋 Pré-requisitos
 
-This project is a starting point for a Flutter application.
+* **Flutter SDK** instalado (versão 3.5.0 ou superior). [Instale pelo site oficial](https://docs.flutter.dev/get-started/install).
+  * *Verifique a instalação executando: `flutter doctor`*
+* **Editor/IDE** (recomendado):
+  * Android Studio
+  * Visual Studio Code com a extensão Flutter
+* **Emulador ou dispositivo**:
+  * Android Emulator
+  * iOS Simulator (somente macOS)
+  * Celular físico com modo desenvolvedor ativado
 
-A few resources to get you started if this is your first Flutter project:
+## 🚀 Como rodar o projeto
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+### Opção A: Usar este repositório completo
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+1. Baixe o projeto e navegue até a pasta no terminal:
+   ```bash
+   cd menteleve
